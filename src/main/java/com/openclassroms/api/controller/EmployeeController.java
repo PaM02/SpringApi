@@ -1,4 +1,4 @@
-package com.openclassroms.api.api.controller;
+package com.openclassroms.api.controller;
 
 import java.util.Optional;
 
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.openclassroms.api.api.model.Employee;
-import com.openclassroms.api.api.service.EmployeeService;
+import com.openclassroms.api.model.Employee;
+import com.openclassroms.api.service.EmployeeService;
 
 @RestController
 public class EmployeeController {

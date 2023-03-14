@@ -1,11 +1,11 @@
-package com.openclassroms.api.api.service;
+package com.openclassroms.api.service;
 
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.openclassroms.api.api.model.Employee;
-import com.openclassroms.api.api.repository.EmployeeRepository;
+import com.openclassroms.api.model.Employee;
+import com.openclassroms.api.repository.EmployeeRepository;
 
 import lombok.Data;
 

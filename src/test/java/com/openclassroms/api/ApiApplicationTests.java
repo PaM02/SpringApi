@@ -1,4 +1,4 @@
-package com.openclassroms.api.api;
+package com.openclassroms.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
